@@ -28,7 +28,8 @@ namespace week_04
          {
               Console.WriteLine("2 hour parking.");
          }
-             
+
+        var change;
        
         }
     }
