@@ -24,7 +24,10 @@ namespace week_04
         Console.WriteLine("Enter abbreviated day");
         string day = Console.ReadLine();
         
-         if((number >= 18 && number <= 22) && day = "mon" || "tues" || "wed" || "thur"){ Console.WriteLine("2 hour parking.");}
+         if((number >= 18 && number <= 22) && (day == "mon" || day == "tues" || day == "wed" || day == "thur"))
+         {
+              Console.WriteLine("2 hour parking.");
+         }
          
       
         }
