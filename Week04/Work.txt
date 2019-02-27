@@ -1,0 +1,46 @@
+1. false
+
+2. true
+
+3. true
+
+4.false
+
+6. false
+
+7.true
+
+prt. 2
+
+1. false
+
+2. true
+
+3. false
+
+4.true
+
+6. false
+
+7. false
+
+8. false
+
+9. false
+
+10.true
+
+11. true
+
+
+
+6pm to 10pm = 2h on mon to thur
+fri & Sat 6pm to 12am = 2h
+
+4hr mon-thu 10pm to 2AM
+No parking 12midnight to 7Am Sat and Sun
+
+no stopping all days 4am to 7am
+
+Ask the user to provide the Day, Time of Day, and Length of parking time
+Tell them how long they can park (2 hours, 4 hours, 0 hours, or no stopping)
