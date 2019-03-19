@@ -122,7 +122,7 @@ namespace Palindrome
                 Main(args); // Restart The Program
             }
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
 
     }
